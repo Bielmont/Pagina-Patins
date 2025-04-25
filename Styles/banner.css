@@ -29,12 +29,14 @@
     animation: bg-gradient 12s ease infinite;
 }
 
+
 @keyframes bg-gradient {
     
     50% {
         background-position: 100% 50%;
     }
 }
+
 
 
 @keyframes rolling {

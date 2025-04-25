@@ -32,6 +32,11 @@ html {
    zoom: .5
 }
 
+header {
+    align-items: center;
+    text-align: center;
+}
+
 h1, h2 {
     font-family: "Syn", sans-serif;
 }
