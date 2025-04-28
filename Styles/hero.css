@@ -10,7 +10,7 @@ section.hero {
     overflow: hidden;
 
     & h1 {
-        max-width: 40rem;
+        max-width: 80rem;
     }
 
     & h1 div {
@@ -249,3 +249,4 @@ section.hero {
         transform: translateY(-15rem);
     }
 }
+
